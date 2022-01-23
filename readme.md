@@ -22,11 +22,11 @@ As of now, we have several different PHP versions. Use appropriate php version a
 
 To set up the Laravel application, initiate a container in the php-apache container with the command below.
 
-* docker-compose exec php-apache /bin/bash
+* `docker-compose exec php-apache /bin/bash`
 
 * This opens a CLI in the php-apache container. Create the Laravel application using the following command.
 
-* composer create-project laravel/laravel .
+* `composer create-project laravel/laravel .`
 
 * Once this is completed, navigate to http://localhost/ which should display the default Laravel welcome page.
 
