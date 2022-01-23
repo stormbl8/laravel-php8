@@ -1,0 +1,12 @@
+AH00112: Warning: DocumentRoot [/var/www/laravel_docker/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 23 18:58:48.796333 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jan 23 18:58:48.796596 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 23 18:59:38.000155 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 23 18:59:41.182165 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jan 23 18:59:41.182554 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 23 19:00:26.769160 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 23 19:00:30.840342 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.10 configured -- resuming normal operations
+[Sun Jan 23 19:00:30.840689 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
