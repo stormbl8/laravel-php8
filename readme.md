@@ -1,4 +1,4 @@
-#  LAMP with Docker Compose
+#  Laravel with Docker Compose
 
 A basic Laravel stack environment built using Docker Compose. It consists of the following:
 
